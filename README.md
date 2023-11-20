@@ -1,7 +1,74 @@
-# pomodoro-watch
+ # Pomodoro Watch
 
-A new Flutter project.
+- [Description](#description)
+- [Getting Started](#getting-started)
+  - [Dependencies](#dependencies)
+  - [Installing](#installing)
+  - [Executing program](#executing-program)
+- [Documentation](#documentation)
+- [Help](#help)
+- [Authors](#authors)
+- [Version History](#version-history)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
+## Description
+
+This sleek and intuitive time management companion helps you stay focused and energized throughout your work or study sessions. Set customizable Pomodoro intervals, track your progress with stylish visuals, and enjoy subtle notifications that gently nudge you to take well-deserved breaks. It's not just a watch; it's your productivity ally, helping you conquer tasks one Pomodoro at a time
 
 ## Getting Started
 
+### Dependencies
 
+- Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+- ex. Windows 10
+
+### Installing
+
+- How/where to download your program
+- Any modifications needed to be made to files/folders
+
+### Executing program
+
+- How to run the program
+- Step-by-step bullets
+
+```
+code blocks for commands
+```
+
+## Documentation
+
+Describe any special instructions that are necessary to install a software package on your computer (if applicable).
+
+## Help
+
+Any advise for common problems or issues.
+
+```
+command to run if program contains helper info
+```
+
+## Authors
+
+Contributors names and contact info
+
+ex. Dominique Pizzie  
+ex. [@DomPizzie](https://twitter.com/dompizzie)
+
+## Version History
+
+- 0.2
+  - Various bug fixes and optimizations
+  - See [commit change]() or See [release history]()
+- 0.1
+  - Initial Release
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+        
